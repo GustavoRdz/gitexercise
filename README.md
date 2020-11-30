@@ -1,1 +1,3 @@
 # gitexercise
+
+Example git practice
